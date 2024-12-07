@@ -6,6 +6,11 @@ Transform your compute power into real earnings
 ![banner](image.png)
 
 # Kaisar Beta Cli Mode
+## Update:
+- Add auto spin:
+  ```bash
+  npm run spin
+  ```
 
 ## Features
 
